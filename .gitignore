@@ -4,7 +4,6 @@
 *.pyc
 *.pyo
 env/
-env*
 dist/
 build/
 *.egg
@@ -27,5 +26,3 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
-
-.env_file
