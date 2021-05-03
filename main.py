@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-A simple app to create a JWT token.
+A simple app to create a JWT token. Added text to test code pipeline
 """
 import os
 import logging
